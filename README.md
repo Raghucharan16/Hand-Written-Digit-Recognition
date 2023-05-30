@@ -32,7 +32,7 @@ Open the index.html file in a web browser to access the application locally.
 The Hand Written Digit Recognition project relies on the following dependencies:
 
 * HTML5 Canvas: Used for drawing and capturing user input.
-* TensorFlow.js: A JavaScript library for machine learning used for the digit recognition model(tensorflowjs works only when tensorflow version <1.6).
+* TensorFlow.js: A JavaScript library for machine learning used for the digit recognition model(tensorflowjs works only when tensorflow version <3.).
 * Bootstrap: A CSS framework used for styling and layout.
 * jQuery: A JavaScript library used for DOM manipulation and event handling.
 * The required dependencies are already included in the project repository, so there is no need for additional setup.
